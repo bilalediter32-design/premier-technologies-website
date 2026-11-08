@@ -1,0 +1,11 @@
+PRE-PUBLISH CHECKLIST
+[ ] Confirm final public domain / GitHub Pages URL
+[ ] Replace YOUR-DOMAIN.com in sitemap.xml and robots.txt
+[ ] Review Privacy Policy and Terms against actual business practices
+[ ] Test email links on a phone with an email app configured
+[ ] Test all 35 design filters and concept selection links
+[ ] Test Light/Dark toggle and refresh persistence
+[ ] Test Urdu toggle and mobile navigation
+[ ] Check mobile layout on a real device
+[ ] Keep WhatsApp and personal phone number unpublished unless explicitly approved
+[ ] Confirm GitHub Pages deployment is green before sharing the live URL
